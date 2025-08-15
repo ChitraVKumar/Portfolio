@@ -42,11 +42,6 @@ Built comprehensive LMS using **React**, **Django**, and **PostgreSQL** with int
 - **81% ML Model Accuracy**: Achieved in real estate price prediction using Random Forest algorithms
 - **50% Database Performance**: Improvement through strategic optimization and indexing
 
-## Publications & Projects
-1. Kumar, C.V. Real Estate Price Prediction Using Machine Learning. *GitHub Repository*, 2023. [Link](https://github.com/ChitraVKumar/Manhattan-Real-Estate-Analysis)
-2. Kumar, C.V. Private Cloud Architecture Design and Optimization. *University of Leicester*, 2023. [Link](https://github.com/ChitraVKumar/CloudComputing_WB_VPC_UoL_Project)
-3. Kumar, C.V. Learning Management System with Integrated Analytics. *Personal Project*, 2023.
-
 ## Contact & Links
 - **Email**: vchitra521rt@gmail.com
 - **Phone**: +44 7818112593
