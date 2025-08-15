@@ -19,14 +19,12 @@
 - Developed React interfaces with NumPy/Matplotlib visualizations improving client engagement by 25% and enabling real-time business insights
 
 ## Projects
-### Real Estate Price Prediction with Machine Learning
-[GitHub Repository](https://github.com/ChitraVKumar/Manhattan-Real-Estate-Analysis)
+### [Real Estate Price Prediction with Machine Learning](https://github.com/ChitraVKumar/Manhattan-Real-Estate-Analysis)
 
 Developed predictive analytics model using **Python** and **Random Forest algorithms** to forecast NYC property prices with 81% accuracy. This data-driven approach analyzed 50,000+ property records and identified £2M+ investment opportunities through spatial clustering analysis, providing actionable insights for real estate investment decisions.
 
 
-### Automated Cloud Infrastructure Optimization
-[GitHub Repository](https://github.com/ChitraVKumar/CloudComputing_WB_VPC_UoL_Project)
+### [Automated Cloud Infrastructure Optimization](https://github.com/ChitraVKumar/CloudComputing_WB_VPC_UoL_Project)
 
 Used **AWS** and **Jenkins** to design and implement automated CI/CD pipelines that reduced deployment time by 85% (from 4 hours to 30 minutes). The optimized cloud architecture achieved 99.9% uptime while supporting 1000+ concurrent users, demonstrating scalable infrastructure design principles for enterprise applications.
 
