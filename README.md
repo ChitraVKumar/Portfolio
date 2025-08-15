@@ -22,12 +22,13 @@
 ### [Real Estate Price Prediction with Machine Learning](https://github.com/ChitraVKumar/Manhattan-Real-Estate-Analysis)
 
 Developed predictive analytics model using **Python** and **Random Forest algorithms** to forecast NYC property prices with 81% accuracy. This data-driven approach analyzed 50,000+ property records and identified £2M+ investment opportunities through spatial clustering analysis, providing actionable insights for real estate investment decisions.
+![Executive Dashboard](visualizations/executive_summary.png)
 
 
 ### [Automated Cloud Infrastructure Optimization](https://github.com/ChitraVKumar/CloudComputing_WB_VPC_UoL_Project)
 
 Used **AWS** and **Jenkins** to design and implement automated CI/CD pipelines that reduced deployment time by 85% (from 4 hours to 30 minutes). The optimized cloud architecture achieved 99.9% uptime while supporting 1000+ concurrent users, demonstrating scalable infrastructure design principles for enterprise applications.
-
+![image](https://user-images.githubusercontent.com/47078856/210979180-bc7b35b2-41a9-4808-9cc8-ca4ef82e94ce.png)
 
 ### Learning Management System with Analytics Dashboard
 
