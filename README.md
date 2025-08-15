@@ -6,18 +6,17 @@
 - M.S., Cloud Computing | University of Leicester (_September 2023_) - **Distinction 7.9/10**								       		
 - B.Tech., Computer Science | JB Institute of Engineering & Technology (_May 2014_) - **Distinction 7.9/10**
 
-## Work Experience
 **Data Analyst @ DHL Enviro Solutions (_September 2024 - Present_)**
-- Identified and corrected inefficient waste sorting processes that impacted over 60% of daily operations, resulting in £2.5M annual cost savings through optimized route planning and vendor performance analytics
-- Redeveloped supplier performance monitoring system using Power BI and statistical modeling which resulted in 35% improvement in vendor efficiency and 30% reduction in processing delays across 50+ waste management suppliers
-- Automated SQL data extraction pipelines from SAP systems to SQL Server, eliminating 40 hours of manual processing per week and enhancing audit accuracy by 95% through real-time data validation frameworks
-- Built interactive Power BI dashboards with advanced DAX formulas to monitor £10M+ annual waste transactions, providing executive-level insights that improved strategic decision-making across operations and finance teams
+- Uncovered and corrected inefficient waste sorting processes impacting 60% of daily operations which saved £2.5M annually through optimized route planning and vendor analytics
+- Redeveloped supplier monitoring system using Power BI and statistical modeling resulting in 35% vendor efficiency improvement and 50+ supplier performance optimization
+- Automated SQL pipelines from SAP to SQL Server eliminating 40 hours/week manual work and achieving 95% audit accuracy through real-time validation
+- Built executive Power BI dashboards monitoring £10M+ waste transactions with advanced DAX formulas for strategic operations and finance decision-making
 
 **Full Stack Python Developer @ Tandem Digital (_September 2020 - February 2022_)**
-- Built scalable e-commerce platform serving 1000+ concurrent users using Django/Flask backend and React frontend, improving system reliability by 20% through comprehensive error handling and automated testing frameworks
-- Optimized database performance by 50% through strategic indexing and query optimization across MySQL and MongoDB systems, reducing page load times and enhancing user experience for local business clients
-- Implemented CI/CD pipelines using Jenkins and Docker containerization, increasing deployment efficiency by 20% and reducing production errors through automated testing and rollback capabilities
-- Developed responsive user interfaces with React.js featuring integrated data visualizations using NumPy and Matplotlib, improving client engagement by 25% and enabling real-time business insights for small business owners
+- Built e-commerce platform serving 1000+ users with Django/Flask + React improving system reliability by 20% through automated testing frameworks
+- Optimized MySQL/MongoDB performance by 50% through strategic indexing reducing page load times for local business clients
+- Implemented Jenkins CI/CD pipelines with Docker increasing deployment efficiency by 20% and reducing production errors
+- Developed React interfaces with NumPy/Matplotlib visualizations improving client engagement by 25% and enabling real-time business insights
 
 ## Projects
 ### Real Estate Price Prediction with Machine Learning
