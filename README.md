@@ -22,7 +22,7 @@
 ### [Real Estate Price Prediction with Machine Learning](https://github.com/ChitraVKumar/Manhattan-Real-Estate-Analysis)
 
 Developed predictive analytics model using **Python** and **Random Forest algorithms** to forecast NYC property prices with 81% accuracy. This data-driven approach analyzed 50,000+ property records and identified £2M+ investment opportunities through spatial clustering analysis, providing actionable insights for real estate investment decisions.
-![Executive Dashboard](visualizations/executive_summary.png)
+![Executive Dashboard](assets/executive_summary.png)
 
 
 ### [Automated Cloud Infrastructure Optimization](https://github.com/ChitraVKumar/CloudComputing_WB_VPC_UoL_Project)
