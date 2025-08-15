@@ -24,20 +24,17 @@
 
 Developed predictive analytics model using **Python** and **Random Forest algorithms** to forecast NYC property prices with 81% accuracy. This data-driven approach analyzed 50,000+ property records and identified £2M+ investment opportunities through spatial clustering analysis, providing actionable insights for real estate investment decisions.
 
-![Real Estate Analysis](/assets/img/real_estate_analysis.png)
 
 ### Automated Cloud Infrastructure Optimization
 [GitHub Repository](https://github.com/ChitraVKumar/CloudComputing_WB_VPC_UoL_Project)
 
 Used **AWS** and **Jenkins** to design and implement automated CI/CD pipelines that reduced deployment time by 85% (from 4 hours to 30 minutes). The optimized cloud architecture achieved 99.9% uptime while supporting 1000+ concurrent users, demonstrating scalable infrastructure design principles for enterprise applications.
 
-![Cloud Architecture](/assets/img/cloud_architecture.png)
 
 ### Learning Management System with Analytics Dashboard
 
 Built comprehensive LMS using **React**, **Django**, and **PostgreSQL** with integrated Power BI analytics. The system features real-time student performance tracking, automated reporting, and scalable cloud-based architecture that supports multi-tenant educational institutions with advanced data visualization capabilities.
 
-![LMS Dashboard](/assets/img/lms_dashboard.png)
 
 ## Achievements & Impact
 - **£2.5M Annual Savings**: Generated through waste management process optimization and analytics
